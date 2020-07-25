@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Form {
+  margin: 4px;
+  overflow-y: auto;
+  height: 70vh;
+}
